@@ -1,0 +1,35 @@
+{
+  "client": {
+    "id": 1,
+    "name": "Apple",
+    "assets": [
+      {
+        "id": 1,
+        "name": "Computer",
+        "anomalies": [
+          {
+            "id": 1,
+            "intervention_date": "10/12/2018",
+            "summary": "Lorem ipsum dolores..",
+            "status": 0,
+            "criticity": 20,
+            "createdAt": "10/10/2018"
+          },
+          {
+            "id": 2,
+            "intervention_date": "10/08/2019",
+            "summary": "Lorem ipsum dolores..",
+            "status": 1,
+            "criticity": 40,
+            "createdAt": "05/08/2019"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Ventilator"
+      }
+    ]
+  }
+  
+}
